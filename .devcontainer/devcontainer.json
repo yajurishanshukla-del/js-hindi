@@ -1,9 +1,4 @@
 {
   "name": "JS Codespace",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
-  "features": {
-    "ghcr.io/devcontainers/features/node:1": {
-      "version": "18"
-    }
-  }
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18"
 }
